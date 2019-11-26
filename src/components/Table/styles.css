@@ -1,0 +1,9 @@
+.table-row {
+  cursor: pointer;
+    transition: background 500ms;
+}
+
+.table-row:hover {
+  background: #00acc1;
+  color: #ffffff;
+}
